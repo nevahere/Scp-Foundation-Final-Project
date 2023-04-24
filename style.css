@@ -1,0 +1,15 @@
+html {height: 100%; width: 100%;}
+nav a{margin: 40px; text-decoration: none; }
+h1 {font-size: 40px;}
+p {font-size:30px;}
+body {margin:0px}
+.div {position: absolute; top: 7%; right: 68%;}
+h1,h2,h3,p {color: #252d3b;}
+a:hover {color: #d60606;}
+hr {margin: 0%}
+.p-1,.p-2,.p-3,.p-4 {border:solid 1px black; margin:0px;}
+
+.Safe {margin-left:10px}
+.div-1 {position: absolute; top: 2%; right: 78%;}
+nav {background-color: black; color: white;  }
+a{color: white; background-color:black}
