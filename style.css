@@ -1,16 +1,19 @@
 html {height: 100%; width: 100%;}
+body {width: 1370px; height: 800px;}
 nav a{margin: 40px; text-decoration: none; }
 h1 {font-size: 40px;}
 p {font-size:30px;}
 body {margin:0px}
-.div {position: absolute; top: 7%; right: 68%;}
+.div {position: absolute; top: 35px; left: 275px; width: 500px;}
 h1,h2,h3,p {color: #252d3b;}
 a:hover {color: #d60606;}
 hr {margin: 0%}
 .p-1,.p-2,.p-3,.p-4 {border:solid 1px black; margin:0px;}
 
 .Safe {margin-left:10px}
-.div-1 {position: absolute; top: 2%; right: 78%;}
+.div-1 {position: absolute; top: 15px; left: 175px; width: 500px;}
+.div-2 {position: absolute; top: 15px; left: 200px; width: 500px;}
+.div-3 {position: absolute; top: 13px; left: 190px; width: 500px;}
 nav {background-color: black; color: white;  }
 a{color: white; background-color:black}
-@media only screen {max-width: 1350px}
+@media {max-width:1368px; max-length:720px;}
